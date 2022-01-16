@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\bin\Debug\netcoreapp3.1\T07. Pascal Triangle.exe
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\bin\Debug\netcoreapp3.1\T07. Pascal Triangle.deps.json
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\bin\Debug\netcoreapp3.1\T07. Pascal Triangle.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\bin\Debug\netcoreapp3.1\T07. Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\bin\Debug\netcoreapp3.1\T07. Pascal Triangle.dll
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\bin\Debug\netcoreapp3.1\T07. Pascal Triangle.pdb
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\obj\Debug\netcoreapp3.1\T07. Pascal Triangle.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\obj\Debug\netcoreapp3.1\T07. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\obj\Debug\netcoreapp3.1\T07. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\obj\Debug\netcoreapp3.1\T07. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\obj\Debug\netcoreapp3.1\T07. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\obj\Debug\netcoreapp3.1\T07. Pascal Triangle.dll
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\obj\Debug\netcoreapp3.1\T07. Pascal Triangle.pdb
+C:\Users\Kristiyan\source\repos\Multidimensional Arrays\T07. Pascal Triangle\obj\Debug\netcoreapp3.1\T07. Pascal Triangle.genruntimeconfig.cache
